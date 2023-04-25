@@ -1,0 +1,1 @@
+<h2><?= ($res ? 'Article was removed!' : 'Article not found!') ?></h2>
